@@ -1,5 +1,8 @@
 # Waifu_moutaz
-Waifu images creation colab
+Waifu images creation. The jupyter notebook contains the whole code for DGAN method. 
+
+Pretrained diffusion models from [anifusion](https://medium.com/@enryu9000/anifusion-diffusion-models-for-anime-pictures-138cf1af2cbe#c628) is also implemented here in Anifusion folder. Usage explained below.
+
 # Installation
 Clone this repository:
 
